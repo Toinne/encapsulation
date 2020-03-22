@@ -47,6 +47,9 @@ Starting with the exercises will make it easier to complete the project.  Spendi
 
 #### Integrating JavaScript
 
+* Form a group of 2-3 and Complete All of the exercises [JavaScript 30](https://github.com/hackyourfuturebelgium/javascript-30) group challenge, your choice!
+  * Link to your team's main repository in your homework issue
+
 #### Challenge Exercises
 
 * (_Isolate_) Begin [FCC Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/)
