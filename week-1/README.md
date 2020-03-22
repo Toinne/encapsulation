@@ -47,7 +47,7 @@ Starting with the exercises will make it easier to complete the project.  Spendi
 
 #### Integrating JavaScript
 
-* Form a group of 2-3 and Complete 1 [JavaScript 30](https://github.com/hackyourfuturebelgium/javascript-30) group challenge, your choice!
+* Don't do anything
   * Link to your team's main repository in your homework issue
 
 #### Challenge Exercises
